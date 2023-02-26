@@ -208,6 +208,7 @@ details ul li{
     background-color: white;
     border-radius: 30px;
     margin: 10px;
+    font-family: 'Press Start 2P', cursive;
 }
 
 .cantidad .pack:hover{
